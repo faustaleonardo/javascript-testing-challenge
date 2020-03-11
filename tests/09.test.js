@@ -4,7 +4,7 @@ const expect = chai.expect;
 const { symmetrical } = require('../src/09');
 
 describe('09.js', function() {
-  it('should detect is a value is symmetrical', function() {
+  it('should detect if a value is symmetrical', function() {
     expect(symmetrical('malam')).to.equal(true);
     expect(symmetrical('taat')).to.equal(true);
     expect(symmetrical('tidur')).to.equal(false);
