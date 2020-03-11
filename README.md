@@ -1,3 +1,3 @@
 # javascript-testing-challenge
 
-## Remember to run npm install.
+## Run npm install first before run the test.
